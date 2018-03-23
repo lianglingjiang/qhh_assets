@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48 (47235) - http://www.bohemiancoding.com/sketch -->
+    <title>cart</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.2" stroke-linecap="round">
+        <g id="cart" stroke="#000000" stroke-width="5">
+            <g id="shopping-cart" transform="translate(9.000000, 10.000000)">
+                <ellipse id="Oval" stroke-linejoin="round" cx="28.4166667" cy="76.3218391" rx="3.66666667" ry="3.67816092"></ellipse>
+                <ellipse id="Oval" stroke-linejoin="round" cx="66.9166667" cy="76.3218391" rx="3.66666667" ry="3.67816092"></ellipse>
+                <path d="M0,6.43678161 L14,6.43678161 L23.38,53.2236678 C24.0405794,56.5439348 26.9898438,58.9141355 30.38,58.8492755 L64.4,58.8492755 C67.7901562,58.9141355 70.7394206,56.5439348 71.4,53.2236678 L77,23.9076129 L17.5,23.9076129" id="Shape" stroke-linejoin="round"></path>
+                <path d="M49.9583333,9.65517241 L49.9583333,0.424455347" id="Line"></path>
+                <path d="M63.7083333,10.5747126 L69.2083333,3.18307604" id="Line"></path>
+                <path d="M31.625,10.5747126 L36.2083333,3.18307604" id="Line" transform="translate(33.916667, 6.878894) scale(-1, 1) translate(-33.916667, -6.878894) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

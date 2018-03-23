@@ -1,1 +1,28 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-heart"><path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"></path></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48 (47235) - http://www.bohemiancoding.com/sketch -->
+    <title>heart</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.2" stroke-linecap="round">
+        <g id="heart" stroke="#000000">
+            <g id="Group" transform="translate(5.000000, 4.000000)">
+                <g id="heart" transform="translate(12.000000, 27.000000)" stroke-linejoin="round" stroke-width="5">
+                    <path d="M64.6023458,5.39284244 C61.1479951,1.93995067 56.4619166,-2.9716653e-15 51.57558,0 C46.6892435,1.48583265e-15 42.003165,1.93995067 38.5488143,5.39284244 L34.9991043,8.93938798 L31.4493944,5.39284244 C24.2549103,-1.7952279 12.590347,-1.79522782 5.39586305,5.39284263 C-1.79862094,12.5809131 -1.79862103,24.2350779 5.39586286,31.4231484 L8.94557281,34.969694 L34.9991043,61 L61.0526359,34.969694 L64.6023458,31.4231484 C68.0583184,27.9718772 70,23.2899761 70,18.4079954 C70,13.5260148 68.0583184,8.84411372 64.6023458,5.39284244 Z" id="Shape"></path>
+                </g>
+                <path d="M78,20 L86,20" id="Path-2" stroke-width="3"></path>
+                <path d="M82,16 L82,24" id="Path-2" stroke-width="3"></path>
+                <path d="M0,71 L8,71" id="Path-2" stroke-width="3"></path>
+                <path d="M4,67 L4,75" id="Path-2" stroke-width="3"></path>
+                <path d="M13,3 L19,3" id="Path-2" stroke-width="2"></path>
+                <path d="M16,0 L16,6" id="Path-2" stroke-width="2"></path>
+                <path d="M22,16 L26,16" id="Path-2" stroke-width="2"></path>
+                <path d="M24,14 L24,18" id="Path-2" stroke-width="2"></path>
+                <path d="M22,83 L26,83" id="Path-2" stroke-width="2"></path>
+                <path d="M24,81 L24,85" id="Path-2" stroke-width="2"></path>
+                <path d="M82,74 L86,74" id="Path-2" stroke-width="2"></path>
+                <path d="M84,72 L84,76" id="Path-2" stroke-width="2"></path>
+            </g>
+        </g>
+    </g>
+</svg>
